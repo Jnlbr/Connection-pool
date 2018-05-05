@@ -1,0 +1,9 @@
+{
+  "name": "Connection-pool",
+  "version": "1.0.0",
+  "description": "A connection pool made in java",
+  "main": "index.js",
+  "repository": "https://github.com/Jnlbr/Connection-pool.git",
+  "author": "Jean Lambert",
+  "license": "MIT"
+}
