@@ -1,11 +1,7 @@
 # Eclipse project files
 .classpath
 .project
-.settings
-**/.settings
+/.settings/
 
 # Compiled stuff
-build
-out
-bin
-**/bin/
+/bin
